@@ -1,3 +1,22 @@
 .data
 .bert_ckpt
 
+# Created by https://www.toptal.com/developers/gitignore/api/data
+# Edit at https://www.toptal.com/developers/gitignore?templates=data
+
+### Data ###
+*.csv
+*.dat
+*.efx
+*.gbr
+*.key
+*.pps
+*.ppt
+*.pptx
+*.sdf
+*.tax2010
+*.vcf
+*.xml
+*.pickle
+
+# End of https://www.toptal.com/developers/gitignore/api/data
